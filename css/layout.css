@@ -1,0 +1,14 @@
+
+/*对界面宽度改变，导航按钮位置的改变*/
+@media (max-width: 768px){
+   .navbar .navbar-header>.navbar-toggle{
+        position: absolute;
+        left: 42%;
+   }
+   .wrapper>.banner-right{
+    position: absolute;
+    top:30%;
+    right: 15%;
+    width: 17%;
+}
+}
